@@ -93,9 +93,9 @@ Business Insights
 
 | File | Description |
 |---|---|
-| 📊 [Blinkit Sales Analysis Excel](Blinkit_Sales_Analysis.xlsx) | Complete Excel workbook containing the dataset, Pivot Tables, analysis, and interactive dashboard |
-| 🎥 [Project Demo Video](Blinkit_Demo_Video.mp4) | Walkthrough of the complete project and dashboard |
-| 🖼️ [Dashboard Preview](Blinkit_Dashboard.png) | High-level preview of the final dashboard |
+| 📊 [Blinkit Sales Analysis Excel](https://github.com/Khushichaudhary06/Real-time-Blinkit-Analysis-excel-Dashboard/blob/main/Blinkit%20Analysis%20Project.xlsx) | Complete Excel workbook containing the dataset, Pivot Tables, analysis, and interactive dashboard |
+| 🎥 [Project Demo Video]("C:\Users\khush\OneDrive\Desktop\Data analysis\Demo Video .mp4") | Walkthrough of the complete project and dashboard |
+| 🖼️ [Dashboard Preview](https://github.com/Khushichaudhary06/Real-time-Blinkit-Analysis-excel-Dashboard/blob/main/Dashboard%20of%20Blinkit%20Analysis%20.png) | High-level preview of the final dashboard |
 
 
 ## Conclusion
